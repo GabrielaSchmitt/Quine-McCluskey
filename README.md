@@ -55,4 +55,4 @@
 - Gabriela Cristina Schmitt (25733150)
 - Felipe dos Santos Fabienski (8113112368)
 - Luiz Henrique Vieira Steff (25878301)
-- Vinícius Patrocínio Dionizio (rgm)
+- Vinícius Dionizio Patrocínio (27038386)
