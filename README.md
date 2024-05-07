@@ -18,8 +18,6 @@
 
 <h2 align="left" >Funções 🧩</h2>
 
-### Funções principais:
-
 #### `converter`
 * Converte um array de inteiros em um vetor de inteiros.
 * Útil para manipulação de dados de entrada.
