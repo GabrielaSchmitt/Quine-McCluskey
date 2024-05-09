@@ -16,6 +16,8 @@
 
 [![](https://mermaid.ink/img/pako:eNpdkN9PwjAQgP-Vpr5AMggdrGx70MjvGRQivqj1obAijaxdus44mv3vdgUT4kOT6313313OwJ1MGYzhp6L5ASyfibh_32iq9AfodG7ByCx5ocEjF5qprKiJGLn82MyVLHOwrcANkHuAGjR2aGLWimcMJFl-5DsqdHFn2cQy8MoKVzJtJSkTmu8rsE6K9oU-ybOaiKkLZv9F4IVuj8zKZo7PzbQoGg09Nppmyvx6yqJl1-YZP7H2hVwmzIhYuCAxrsL2j-U3U1aQuPxDa1XqvNRgs1rb3ofz0iKFHszsGShP7cUMEQAQqA8sYwTGNkyp-iKQiNrW0VLLTSV2MNaqZB4s85RqNuHUHjr7S-ZUvEl5_YWxgT8w7iDc79o3QBgNUBjggQcrGKMQdfvYH_p-iKMQ4wjXHjw5A-r6UYCjXtgL-n409ANc_wLYeJAj?type=png)](https://mermaid.live/edit#pako:eNpdkN9PwjAQgP-Vpr5AMggdrGx70MjvGRQivqj1obAijaxdus44mv3vdgUT4kOT6313313OwJ1MGYzhp6L5ASyfibh_32iq9AfodG7ByCx5ocEjF5qprKiJGLn82MyVLHOwrcANkHuAGjR2aGLWimcMJFl-5DsqdHFn2cQy8MoKVzJtJSkTmu8rsE6K9oU-ybOaiKkLZv9F4IVuj8zKZo7PzbQoGg09Nppmyvx6yqJl1-YZP7H2hVwmzIhYuCAxrsL2j-U3U1aQuPxDa1XqvNRgs1rb3ofz0iKFHszsGShP7cUMEQAQqA8sYwTGNkyp-iKQiNrW0VLLTSV2MNaqZB4s85RqNuHUHjr7S-ZUvEl5_YWxgT8w7iDc79o3QBgNUBjggQcrGKMQdfvYH_p-iKMQ4wjXHjw5A-r6UYCjXtgL-n409ANc_wLYeJAj)
 
+ <br></br>
+
 <h2 align="left" >Funções 🧩</h2>
 
 #### `converter`
@@ -50,9 +52,19 @@
 * Imprime a expressão booleana mínima na tela.
 * Formata a expressão de forma legível para o usuário.
 
+<br></br>
+
+## Como rodar os códigos
+
+Para rodar os códigos é necessária uma IDE C++ como o **DevC++, Eclipse** ... mas caso não tenha espaço no computador há a opção de rodar no Compilador on-line [GDBOnline](https://www.onlinegdb.com/), basta copiar o programa inteiro e cola-lo no local de desenvolvimento do site e então clicar em RUN. 
+
+ <br></br>
+
 <h2 align="left" >Equipe 🧠</h2>
 
 - Gabriela Cristina Schmitt (25733150)
 - Felipe dos Santos Fabienski (8113112368)
 - Luiz Henrique Vieira Steff (25878301)
 - Vinícius Dionizio Patrocínio (27038386)
+
+✨ Obrigada pela atenção! ✨
