@@ -67,4 +67,6 @@ Para rodar os códigos é necessária uma IDE C++ como o **DevC++, Eclipse** ...
 - Luiz Henrique Vieira Steff (25878301)
 - Vinícius Dionizio Patrocínio (27038386)
 
+<br></br>
+
 ✨ Obrigada pela atenção! ✨
